@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m Ishika, a BTech CSE student passionate about AI, Mac
 
 I’ve contributed to and built exciting projects like:
 
-- **Svara** — A 30-hour hackathon project focused on [brief description]  
+- **Svara** — A 30-hour hackathon project focused on AI/ML 
 - **Dynamiss** — AI-powered solution finalist in Zinnovatio 2.0  
 - **Galaxy** — Project showcased at UIET Punjab University  
 - **SecureX** — An AI-based fraud detection app I’m currently developing  
@@ -21,7 +21,7 @@ I’ve contributed to and built exciting projects like:
 - **Languages:** C++, Python  
 - **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn  
 - **Tools & Platforms:** Git, Jupyter Notebook, FastAPI  
-- **Core Focus Areas:** Deep Learning, NLP, Computer Vision, Data Structures & Algorithms  
+- **Core Focus Areas:** Deep Learning, NLP, Data Structures & Algorithms  
 
 ---
 
