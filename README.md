@@ -1,25 +1,22 @@
-Hi, I’m Ishika Soni! 👋
+Hi, I'm Ishika 👋
 
-I’m a BTech student specializing in AI and Data Science, passionate about transforming ideas into impactful tech solutions. Currently, I’m sharpening my skills in Data Structures & Algorithms (DSA), Full Stack Development, and AI/ML, aiming to crack placements and build projects that solve real-world problems.
-🛠️ Technologies & Tools I Work With
-
-Programming Languages: C++, Python, JavaScript, HTML, CSS
-Web Development: HTML, CSS, JavaScript, Tailwind CSS, Node.js
-Data Science & AI: Python (Pandas, NumPy, scikit-learn), Machine Learning basics
-Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebooks, Docker
-Blockchain: Basics of Smart Contracts & Decentralized Apps (DApps)
-💻 What I’m Currently Working On
-
-Freelance projects as an AI, Data Science, and ML developer
-Preparing for hackathons and coding challenges to strengthen problem-solving skills
-Building full-stack applications with modern web technologies
-🌱 What I’m Learning & Improving
-
-Advanced DSA for placement preparation and efficient coding
-Responsive UI design using Tailwind CSS
-Basics of Cybersecurity to create safer digital experiences
-📫 Let’s Connect!
-
+Welcome to my GitHub! I'm a BTech CSE student passionate about AI, Machine Learning, and cracking FAANG placements. Currently diving deep into AI/ML engineering and building impactful projects to sharpen my skills.
+🌱 I’m currently working on:
+Developing AI-powered applications and exploring cutting-edge ML algorithms.
+Building real-world projects to strengthen my portfolio for tech interviews.
+📚 I’m currently learning:
+Advanced AI/ML concepts, deep learning frameworks, and system design.
+Data structures & algorithms with a focus on competitive programming to ace placements.
+👯 I’m looking to collaborate on:
+AI, Machine Learning, and Data Science projects.
+Open-source initiatives related to backend systems and scalable architectures.
+🤔 I’m looking for help with:
+Interview prep strategies for FAANG and top tech companies.
+Best practices in production-level AI/ML model deployment.
+📫 How to reach me:
 Email: soniishika081@gmail.com
-LinkedIn: Ishika Soni
-I’m always excited to collaborate, learn, and grow — feel free to explore my repositories or reach out!
+LinkedIn: https://www.linkedin.com/in/ishikasoni2005/
+😄 Pronouns:
+She/Her
+👩 About me:
+A motivated learner driven by curiosity and a strong desire to grow as an AI/ML Engineer. I believe in continuous learning, collaboration, and turning ideas into reality. Let’s build the future together! 🚀
