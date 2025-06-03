@@ -36,7 +36,7 @@ I’ve contributed to and built exciting projects like:
 ## 📫 Connect With Me
 
 - 📧 Email: soniishika081@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ishikasoni2005/]
+- 🔗 LinkedIn: https://www.linkedin.com/in/ishikasoni2005/
 
 ---
 
