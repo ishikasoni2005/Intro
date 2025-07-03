@@ -1,43 +1,45 @@
-# 🚀 Ishika | Aspiring AI/ML Engineer & FAANG Hopeful
+# 🚀 Ishika | Aspiring SDE | MERN Stack Developer | Future FAANG Engineer
 
-Welcome to my GitHub! I’m Ishika, a BTech CSE student passionate about AI, Machine Learning, and building innovative projects. I’m on a mission to crack FAANG placements and grow as a skilled AI/ML engineer.
+Welcome to my GitHub! I’m Ishika, a BTech CSE student passionate about building scalable web applications using the **MERN stack** and solving real-world problems through code. I’m on a mission to crack FAANG placements and grow as a full-stack software engineer.
 
 ---
 
 ## 💡 What I’m Building & Exploring
 
-I’ve contributed to and built exciting projects like:
+I’m actively working on and have contributed to exciting tech projects like:
 
-- **Svara** — A 30-hour hackathon project focused on AI/ML 
-- **Dynamiss** — AI-powered solution finalist in Zinnovatio 2.0  
-- **Galaxy** — Project showcased at UIET Punjab University  
-- **SecureX** — An AI-based fraud detection app I’m currently developing  
-- **ZenkAI** — An AI-powered study companion converting notes into summaries, flashcards, and podcasts  
+- **PortCast** — A MERN stack-based podcast publishing platform with Telegram bot integration  
+- **SecureX** — An AI-enhanced fraud detection app with a robust backend  
+- **Svara** — AI/ML hackathon project built in 30 hours  
+- **Dynamiss** — Finalist solution for Zinnovatio 2.0 leveraging AI and backend integration  
+- **ZenkAI** — A smart note companion using AI to generate summaries, flashcards, and more  
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** C++, Python  
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn  
-- **Tools & Platforms:** Git, Jupyter Notebook, FastAPI  
-- **Core Focus Areas:** Deep Learning, NLP, Data Structures & Algorithms  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs  
+- **Dev Tools:** Git, Postman, VS Code, GitHub, Render  
+- **Other Skills:** C++, Python, FastAPI, AI/ML basics  
+- **Core Areas:** Full-Stack Development, API Design, System Design, DSA  
 
 ---
 
 ## 🎯 Goals & Learning Focus
 
-- Master advanced AI/ML concepts and real-world model deployment  
-- Strengthen problem-solving and system design skills for top tech interviews  
-- Collaborate on open-source projects in AI, backend systems, and scalable architectures  
+- Build and scale full-stack MERN projects with production-ready practices  
+- Strengthen DSA, system design, and problem-solving for top tech interviews  
+- Learn DevOps basics and integrate AI with web apps  
+- Contribute to open-source projects and collaborate with other developers  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
 - 📧 Email: soniishika081@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ishikasoni2005/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ishikasoni2005/)
 
 ---
 
-I’m always excited to learn, collaborate, and create—let’s build something awesome together! 🚀
+I'm always looking for exciting ideas, collaborations, and learning opportunities—let’s connect and build something awesome together! 💻🚀
