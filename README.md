@@ -1,44 +1,121 @@
-# 🚀 Ishika | B.Tech CSE (AI & Data Science) | Full-Stack & AI Enthusiast
+# Hi 👋 I'm Ishika 
 
-Hi, I’m Ishika! I’m a **B.Tech CSE (AI & Data Science) student** at CGC University, Mohali. I enjoy exploring **full-stack development, AI/ML integration, and problem-solving**. I’m focused on building **scalable, maintainable applications** and improving my **technical and algorithmic skills**.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Languages:** C++, Python, Java, JavaScript  
-- **Frontend:** React.js, Tailwind CSS, ShadCN UI, HTML, CSS  
-- **Backend:** Node.js, Express.js, FastAPI, REST APIs  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Developer Tools:** Git, GitHub, VS Code, Postman, Render  
-- **Core CS Concepts:** Data Structures & Algorithms, OOPS, OS, DBMS, CN  
-- **Other Skills:** AI/ML basics, NLP integration, API design, system design  
+💻 Computer Science Student | Backend Developer | AI/ML Enthusiast  
+🚀 Preparing for FAANG-level Software Engineering Roles  
 
 ---
 
-## 🎯 Learning Goals
+## 🚀 About Me
 
-- Strengthen **DSA, problem-solving, and system design** skills  
-- Explore **AI/ML integration in practical applications**  
-- Improve **full-stack development practices** and scalable architecture  
-- Contribute to **open-source projects** and collaborative coding  
+I am a passionate computer science student focused on building **scalable backend systems, AI-powered applications, and real-world developer tools**.
 
----
+I enjoy solving complex problems using **Data Structures & Algorithms**, building **full-stack applications**, and exploring **Machine Learning and System Design**.
 
-## 🏆 Achievements
+Currently working on building impactful projects that combine:
 
-- Solved **500+ DSA problems** on LeetCode & GFG  
-- Built and deployed **full-stack and AI-based applications**  
-- Submitted a **research paper to IEEE/Scopus** on AI-powered scam detection (INDIACom-2026)  
-- Ranked among the **top 10 students** in the department  
+- Backend Engineering
+- AI & Machine Learning
+- System Design
+- Developer Tools
 
 ---
 
-## 📫 Connect with Me
+## 🧠 Current Focus
 
-- 📧 Email: soniishika081@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ishikasoni2005/)  
-- 💻 [GitHub](https://github.com/ishikasoni2005/)  
-- 📝 [LeetCode](https://leetcode.com/u/ishikasoni2025/)
+- Data Structures & Algorithms (C++)
+- Backend Development with Django
+- System Design Fundamentals
+- AI/ML Projects
+- Building real-world products
 
-I’m always **learning, coding, and exploring new technologies**—happy to connect and collaborate!
+---
+
+## 🚀 Featured Projects
+
+### 🧭 DevCompass
+AI-powered developer guidance platform that generates personalized learning roadmaps, project suggestions, and interview preparation strategies.
+
+Tech: Python • ML • Django • System Design
+
+---
+
+### 🎙 CollabCast
+A collaboration platform where developers, creators, and innovators can find teammates and build projects together.
+
+Tech: Django • MySQL • REST APIs
+
+---
+
+### 🔍 SEO Analyzer
+A tool that analyzes websites for SEO performance and provides actionable insights to improve search engine ranking.
+
+Tech: Python • Web Scraping • Data Analysis
+
+---
+
+### 🔐 SecureX
+Security-focused application that helps detect vulnerabilities and improve software safety.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+C++ • Python • SQL • JavaScript
+
+**Backend**
+
+Django • REST APIs • MySQL
+
+**AI / Data**
+
+Machine Learning • Pandas • NumPy • Scikit-learn
+
+**Tools**
+
+Git • Docker • Linux • Postman
+
+---
+
+## 📈 Coding Profiles
+
+💻 GitHub  
+https://github.com/ishikasoni2005
+
+🧠 LeetCode  
+https://leetcode.com/u/ishikasoni2005/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/ishikasoni2005/
+
+🐦 Twitter / X  
+https://x.com/ishikasoni2005
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikasoni2005&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasoni2005&layout=compact)
+
+---
+
+## 🌱 Currently Building
+
+🧭 **DevCompass**  
+AI-powered platform that guides developers to become world-class engineers.
+
+---
+
+## 🤝 Let's Connect
+
+If you are interested in collaborating on projects or discussing technology, feel free to connect with me.
+
+LinkedIn:  
+https://www.linkedin.com/in/ishikasoni2005/
+
+---
+
+⭐ *Always learning. Always building.*
