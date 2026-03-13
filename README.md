@@ -1,121 +1,124 @@
-# Hi 👋 I'm Ishika 
+# Hi 👋 I'm Ishika
 
-💻 Computer Science Student | Backend Developer | AI/ML Enthusiast  
-🚀 Preparing for FAANG-level Software Engineering Roles  
+💻 **Computer Science Student (2023–2027)**  
+🚀 **Aspiring Software Engineer | Backend Developer | AI/ML Enthusiast**
+
+I’m passionate about building **scalable backend systems, AI-powered applications, and developer-focused tools** that solve real-world problems.
+
+Currently focused on **Data Structures & Algorithms, Backend Engineering, and System Design** while building impactful products.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I am a passionate computer science student focused on building **scalable backend systems, AI-powered applications, and real-world developer tools**.
+I enjoy working on projects that combine:
 
-I enjoy solving complex problems using **Data Structures & Algorithms**, building **full-stack applications**, and exploring **Machine Learning and System Design**.
-
-Currently working on building impactful projects that combine:
-
-- Backend Engineering
-- AI & Machine Learning
-- System Design
-- Developer Tools
+- ⚙️ Backend Engineering
+- 🧠 Artificial Intelligence & Machine Learning
+- 🏗 System Design
+- 🛠 Developer Productivity Tools
+- 📊 Data-driven Applications
 
 ---
 
 ## 🧠 Current Focus
 
-- Data Structures & Algorithms (C++)
-- Backend Development with Django
-- System Design Fundamentals
-- AI/ML Projects
-- Building real-world products
+- 📚 Data Structures & Algorithms (C++)
+- ⚙️ Backend Development with Django
+- 🏗 System Design Fundamentals
+- 🤖 AI / ML Applications
+- 🚀 Building Real-World Products
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧭 DevCompass
-AI-powered developer guidance platform that generates personalized learning roadmaps, project suggestions, and interview preparation strategies.
+AI-powered developer guidance platform that generates **personalized learning roadmaps, project suggestions, and interview preparation strategies**.
 
-Tech: Python • ML • Django • System Design
+**Tech Stack**
+
+`Python` • `Machine Learning` • `Django` • `System Design`
 
 ---
 
 ### 🎙 CollabCast
-A collaboration platform where developers, creators, and innovators can find teammates and build projects together.
+A **collaboration platform for developers and creators** to discover teammates and build projects together.
 
-Tech: Django • MySQL • REST APIs
+**Tech Stack**
+
+`Django` • `MySQL` • `REST APIs` • `WebSockets`
 
 ---
 
 ### 🔍 SEO Analyzer
-A tool that analyzes websites for SEO performance and provides actionable insights to improve search engine ranking.
+A tool that **analyzes websites for SEO performance** and provides actionable insights to improve search engine ranking.
 
-Tech: Python • Web Scraping • Data Analysis
+**Tech Stack**
+
+`Python` • `Web Scraping` • `Data Analysis`
 
 ---
 
 ### 🔐 SecureX
-Security-focused application that helps detect vulnerabilities and improve software safety.
+A **security-focused application** designed to detect vulnerabilities and improve software safety.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+### 💻 Languages
+`C++` • `Python` • `SQL` • `JavaScript`
 
-C++ • Python • SQL • JavaScript
+### ⚙️ Backend
+`Django` • `REST APIs` • `MySQL`
 
-**Backend**
+### 🤖 AI / Data
+`Machine Learning` • `Pandas` • `NumPy` • `Scikit-learn`
 
-Django • REST APIs • MySQL
-
-**AI / Data**
-
-Machine Learning • Pandas • NumPy • Scikit-learn
-
-**Tools**
-
-Git • Docker • Linux • Postman
+### 🛠 Tools
+`Git` • `Docker` • `Linux` • `Postman`
 
 ---
 
 ## 📈 Coding Profiles
 
-💻 GitHub  
+💻 **GitHub**  
 https://github.com/ishikasoni2005
 
-🧠 LeetCode  
+🧠 **LeetCode**  
 https://leetcode.com/u/ishikasoni2005/
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/ishikasoni2005/
 
-🐦 Twitter / X  
+🐦 **Twitter / X**  
 https://x.com/ishikasoni2005
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikasoni2005&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishikasoni2005&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasoni2005&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasoni2005&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌱 Currently Building
 
-🧭 **DevCompass**  
-AI-powered platform that guides developers to become world-class engineers.
+### 🧭 DevCompass
+An **AI-powered platform helping developers become world-class engineers** through personalized learning paths, project recommendations, and interview preparation strategies.
 
 ---
 
 ## 🤝 Let's Connect
 
-If you are interested in collaborating on projects or discussing technology, feel free to connect with me.
+I’m always interested in **collaborating on meaningful projects**, discussing technology, or exploring new ideas.
 
-LinkedIn:  
+💼 LinkedIn  
 https://www.linkedin.com/in/ishikasoni2005/
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ **Always Learning • Always Building • Always Improving**
