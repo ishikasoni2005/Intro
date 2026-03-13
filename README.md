@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ishika
 
 💻 **Computer Science Student (2023–2027)**  
-🚀 **Aspiring Software Engineer | Backend Developer | AI/ML Enthusiast**
+🚀 **Aspiring Software Engineer | Backend Developer | AI/ML Enthusiast** 
 
 I am passionate about building **scalable backend systems, real-time collaboration platforms, and AI-powered applications** that solve real-world problems.
 
