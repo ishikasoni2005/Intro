@@ -12,7 +12,6 @@ Currently focused on **Data Structures & Algorithms, Backend Engineering, System
 ## 🚀 What I Do
 
 I enjoy working on projects that combine:
-
 - ⚙️ Backend Engineering
 - 🌐 Full Stack Development
 - 🧠 Artificial Intelligence & Machine Learning
