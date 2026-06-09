@@ -5,7 +5,7 @@
 
 Passionate about building **scalable backend systems, real-time collaboration platforms, and AI-powered applications** that solve real-world problems.
 
-📩 soniishika081@gmail.com • 📍 Mohali, Punjab • 📞 +91-9816616203
+📩 soniishika081@gmail.com • 📍 Mohali, Punjab 
 
 ---
 
