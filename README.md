@@ -64,6 +64,7 @@ Passionate about building **scalable backend systems, real-time collaboration pl
 **Class X (HPBOSE)** — KPS Public High School Chandpur, HP
 *2020 – 2021 | 99%*
 
+
 ---
 
 ⭐ **Always Learning • Always Building • Always Improving**
